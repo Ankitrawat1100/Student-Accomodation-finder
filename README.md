@@ -14,10 +14,15 @@ Features
 
 Technologies Used
 Programming Language: Python
+
 Libraries:
 pandas (Data Manipulation)
+
 numpy (Numerical Computations)
+
 matplotlib and seaborn (Data Visualization)
+
 scikit-learn (K-Means Clustering)
+
 
 ![Uploading Screenshot (41).png…]()
