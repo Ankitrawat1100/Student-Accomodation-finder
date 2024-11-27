@@ -4,9 +4,14 @@ This project uses K-Means Clustering to classify and recommend the best accommod
 
 Features
 🏠 Classifies Accommodations: Groups accommodations into clusters based on student preferences.
+
 💸 Budget Analysis: Helps students find options within their budget.
+
 📍 Location Proximity: Evaluates accommodation distance from the desired location (e.g., university).
+
 🛠️ Amenities Filtering: Includes preferences like Wi-Fi, gym, laundry, etc.
+
+
 Technologies Used
 Programming Language: Python
 Libraries:
